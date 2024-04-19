@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/coderRhythm/My_portfolio/static/css/main.d0760c7b.css",
-    "main.js": "/coderRhythm/My_portfolio/static/js/main.3a413cbc.js",
-    "static/media/project4.png": "/coderRhythm/My_portfolio/static/media/project4.1760cf2d52e2b3a60296.png",
-    "static/media/aboutimg1.jpg": "/coderRhythm/My_portfolio/static/media/aboutimg1.405ab1f2a23a1dffd4b7.jpg",
-    "static/media/bank.png": "/coderRhythm/My_portfolio/static/media/bank.cfa55a95d0ce4f0382e1.png",
-    "static/media/event.png": "/coderRhythm/My_portfolio/static/media/event.ef47c3d1b83aa1ba9d9d.png",
-    "static/media/IntroImg.jpg": "/coderRhythm/My_portfolio/static/media/IntroImg.6c49aa879b4b0db6d1c4.jpg",
-    "static/media/aboutimg2.avif": "/coderRhythm/My_portfolio/static/media/aboutimg2.f5bce6fc4f934b60c501.avif",
-    "static/media/heroimg2.jpg": "/coderRhythm/My_portfolio/static/media/heroimg2.5901c50f6595a071dbd8.jpg",
-    "static/media/intro.png": "/coderRhythm/My_portfolio/static/media/intro.e088b5582f59f72d2e95.png",
-    "index.html": "/coderRhythm/My_portfolio/index.html",
-    "main.d0760c7b.css.map": "/coderRhythm/My_portfolio/static/css/main.d0760c7b.css.map",
-    "main.3a413cbc.js.map": "/coderRhythm/My_portfolio/static/js/main.3a413cbc.js.map"
+    "main.css": "/My_portfolio/static/css/main.a28909e5.css",
+    "main.js": "/My_portfolio/static/js/main.ec8fce8a.js",
+    "static/media/project4.png": "/My_portfolio/static/media/project4.1760cf2d52e2b3a60296.png",
+    "static/media/aboutimg1.jpg": "/My_portfolio/static/media/aboutimg1.405ab1f2a23a1dffd4b7.jpg",
+    "static/media/bank.png": "/My_portfolio/static/media/bank.cfa55a95d0ce4f0382e1.png",
+    "static/media/event.png": "/My_portfolio/static/media/event.ef47c3d1b83aa1ba9d9d.png",
+    "static/media/IntroImg.jpg": "/My_portfolio/static/media/IntroImg.6c49aa879b4b0db6d1c4.jpg",
+    "static/media/aboutimg2.avif": "/My_portfolio/static/media/aboutimg2.f5bce6fc4f934b60c501.avif",
+    "static/media/heroimg2.jpg": "/My_portfolio/static/media/heroimg2.5901c50f6595a071dbd8.jpg",
+    "static/media/intro.png": "/My_portfolio/static/media/intro.e088b5582f59f72d2e95.png",
+    "index.html": "/My_portfolio/index.html",
+    "main.a28909e5.css.map": "/My_portfolio/static/css/main.a28909e5.css.map",
+    "main.ec8fce8a.js.map": "/My_portfolio/static/js/main.ec8fce8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0760c7b.css",
-    "static/js/main.3a413cbc.js"
+    "static/css/main.a28909e5.css",
+    "static/js/main.ec8fce8a.js"
   ]
 }
