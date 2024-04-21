@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from "../Components/Navbar"
-import Hero from "../Components/Hero"
+// import Hero from "../Components/Hero"
 import Footer from "../Components/Footer"
 
 import Hero2 from "../Components/Hero2"
