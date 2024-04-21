@@ -6,7 +6,7 @@ const ProjectcardData=[
         imgsrc: pro1,
         title: "recipe api handling",
         text: "fetch the item from the recipe and display in the form of card in website .Card contains image and small description of it..",
-        view: "https://rhythmsethiyafoodvarieties.netlify.app",
+        view: "https://rhythmsethiyafoodvarities.netlify.app/",
         source: "https://github.com/coderRhythm/js-project"
     },
     {
